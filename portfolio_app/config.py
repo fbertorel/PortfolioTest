@@ -1,0 +1,3 @@
+DB_NAME = "portfolio.db"
+RISK_FREE_RATE = 0.02
+TRADING_DAYS = 252
